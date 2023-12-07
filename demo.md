@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/104147807/164614608-dd47baf3-a875-4f2a
 https://user-images.githubusercontent.com/104147807/164614771-b953b627-7a58-427b-914e-9247c3738189.mov<br/>
 
 <b>CRUD facility mapping catalogue</b><br/>
-https://user-images.githubusercontent.com/104147807/180724957-9046533c-a0d6-4ac6-bd0f-22c831a8962c.mov\
+https://user-images.githubusercontent.com/104147807/180724957-9046533c-a0d6-4ac6-bd0f-22c831a8962c.mov<br/>
 
 <b>ML-powered SAP monitoring - redundand alerts processing:</b><br/>
 https://user-images.githubusercontent.com/104147807/165455099-6550ec3b-4cf8-4a7e-832f-92c5ddc36959.mov<br/>
